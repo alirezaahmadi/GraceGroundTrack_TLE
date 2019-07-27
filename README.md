@@ -39,9 +39,6 @@ All parameters extracted from TLE file
 	<img src="/images/TLE.png"  width="700"/>
 </div>
 
-## How to Compute the semi-major axis, the transit time of perigee, and the orbital period of each satellite. Calculate the satellite’s altitude at both apogee and perigee. Consider a spherical Earth with radius R.
-
-#### First we should know orbital period of satellites
 The orbital period of the satellite could be calculated based on satellite’s mean velocity n which is extracted in unit of revolution per day.
 
 <div align="center">
@@ -55,6 +52,7 @@ semi—major axis:
 </div>
 
 where G is the universal gravitational constant and M is the mass of the earth, also, n is the mean velocity of satellite in unit of revolution per seconds.
+
 ---
 * altitude of Perigee:	
 
