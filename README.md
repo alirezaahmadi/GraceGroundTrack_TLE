@@ -66,8 +66,9 @@ The altitude of Perigee could be computed based on distance of Perigee from focu
 * altitude of Apogee:			
 
 <div align="center">
-	<img src="/images/4.png"  width="300"/>
+	<img src="../images/4.png"  width="300"/>
 </div>
+
 
 The altitude of Apogee same as Perigee could be obtained through distance of Apogee from the focal point, which, earth is situated on, minus Erath radius.
 
@@ -85,7 +86,7 @@ of satellite.
 --- 
  by: Alireza Ahmadi                                     
  University of Bonn- Robotics & Geodetic Engineering
- 
+
  Alireza.Ahmadi@uni-bonn.de                             
  [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
 
