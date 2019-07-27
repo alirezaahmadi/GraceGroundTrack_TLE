@@ -19,19 +19,17 @@ here, I will try to to my best to explain in details all necessary steps and the
 
 ### The definition of important parameters:
 
-* a: semi-major axis of ellipse.
-* b: semi-minor axis of ellipse.
-* Perigee: The closes point to the earth on the ellipse.
-* Apogee: The most far point in the ellipse with respect to earth.
-* Mean Motion (n): The number of revolutions of satellite around Earth per day.
-* Mean anomaly (M): an angular distance defined by the position of the satellite on its orbit with respect to perigee on a circular orbit [1].
-* Eccentric anomaly (E): an angular parameter that defines the position of a body that is moving along an elliptic Kepler orbit [1].
-* True anomaly (v): Position of satellite on its elliptic orbit respect to center of the earth.
-* Inclination (i): Angle between equatorial plane and satellite orbital plane.
-* Right ascension of ascending node (RAAN,OMEGA): the angle from origin of
-* longitude, of point which satellite will pass the equatorial plane from down
-side to up, measured in a reference plane [1].
-* Argument of perigee (w): Is defined as the angle within the satellite orbit plane from the Ascending Node to the perigee point (p) along the satellite's direction of travel [1].
+* **a**: semi-major axis of ellipse.
+* **b**: semi-minor axis of ellipse.
+* **Perigee**: The closes point to the earth on the ellipse.
+* **Apogee**: The most far point in the ellipse with respect to earth.
+* **Mean Motion (n)**: The number of revolutions of satellite around Earth per day.
+* **Mean anomaly (M)**: an angular distance defined by the position of the satellite on its orbit with respect to perigee on a circular orbit [1].
+* **Eccentric anomaly (E)**: an angular parameter that defines the position of a body that is moving along an elliptic Kepler orbit [1].
+* **True anomaly (v)**: Position of satellite on its elliptic orbit respect to center of the earth.
+* **Inclination (i)**: Angle between equatorial plane and satellite orbital plane.
+* **Right ascension of ascending node (RAAN,OMEGA)**: the angle from origin of longitude, of point which satellite will pass the equatorial plane from down side to up, measured in a reference plane [1].
+* **Argument of perigee (w)**: Is defined as the angle within the satellite orbit plane from the Ascending Node to the perigee point (p) along the satellite's direction of travel [1].
 
 
 ## Extracting information from TLE file 
