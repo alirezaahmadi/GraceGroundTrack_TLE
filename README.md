@@ -42,13 +42,13 @@ All parameters extracted from TLE file
 The orbital period of the satellite could be calculated based on satellite’s mean velocity n which is extracted in unit of revolution per day.
 
 <div align="center">
-	<img src="/images/1.png"  width="70"/>
+	<img src="/images/1.png"  width="100"/>
 </div>
 
 semi—major axis:
 
 <div align="center">
-	<img src="/images/2.png"  width="100"/>
+	<img src="/images/2.png"  width="120"/>
 </div>
 
 where G is the universal gravitational constant and M is the mass of the earth, also, n is the mean velocity of satellite in unit of revolution per seconds.
