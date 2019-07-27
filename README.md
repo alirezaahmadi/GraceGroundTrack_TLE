@@ -66,7 +66,7 @@ The altitude of Perigee could be computed based on distance of Perigee from focu
 * altitude of Apogee:			
 
 <div align="center">
-	<img src="../images/4.png"  width="300"/>
+	<img src="/images/4.png"  width="300"/>
 </div>
 
 
